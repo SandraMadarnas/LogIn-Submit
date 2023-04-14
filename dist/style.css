@@ -1,7 +1,4 @@
-/* Please ❤ this if you like it! */
-
-
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+/* @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
 
 body{
 	font-family: 'Poppins', sans-serif;
@@ -9,7 +6,7 @@ body{
 	font-size: 15px;
 	line-height: 1.7;
 	color: #c4c3ca;
-	background-color: #1f2029;
+	background-color: black;
 	overflow-x: hidden;
 }
 a {
@@ -42,7 +39,7 @@ h6 span{
   position: relative;
   width: 100%;
   display: block;
-}
+} */
 .full-height{
   min-height: 100vh;
 }
@@ -72,7 +69,7 @@ h6 span{
   height: 36px;
   border-radius: 50%;
   color: #ffeba7;
-  background-color: #102770;
+  background-color: #302e3f;
   font-family: 'unicons';
   content: '\eb4f';
   z-index: 20;
@@ -258,34 +255,17 @@ h6 span{
   text-align: center;
   border: none;
   background-color: #ffeba7;
-  color: #102770;
+  color: #302e3f;
   box-shadow: 0 8px 24px 0 rgba(255,235,167,.2);
 }
 .btn:active,
 .btn:focus{  
-  background-color: #102770;
+  background-color: #302e3f;
   color: #ffeba7;
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
 }
 .btn:hover{  
-  background-color: #102770;
+  background-color: #302e3f;
   color: #ffeba7;
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
-}
-
-
-
-
-.logo {
-	position: absolute;
-	top: 30px;
-	right: 30px;
-	display: block;
-	z-index: 100;
-	transition: all 250ms linear;
-}
-.logo img {
-	height: 26px;
-	width: auto;
-	display: block;
 }
